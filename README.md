@@ -365,5 +365,3 @@ tt start --help
 MIT License - see LICENSE file for details.
 
 ---
-
-**Happy time tracking! 📊⏰**
